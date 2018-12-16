@@ -1,6 +1,6 @@
 {
     "name": "react-boilerplate",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A ready to use React boilerplate with minimal webpack configuration.",
     "keywords": [
         "boilerplate",
@@ -14,7 +14,7 @@
     },
     "author": "Matheus Frantz",
     "devDependencies": {
-        "@babel/core": "^7.2.0",
+        "@babel/core": "^7.2.2",
         "@babel/preset-react": "^7.0.0",
         "babel-loader": "^8.0.4",
         "css-loader": "^2.0.1",
