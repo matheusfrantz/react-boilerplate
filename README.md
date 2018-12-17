@@ -5,6 +5,21 @@ A ready to use React boilerplate with minimal webpack configuration.
 ## Installation
 
 ```
-npm install
-npm start
+$ git clone https://github.com/matheusfrantz/react-boilerplate.git
+$ cd react-boilerplate
+$ npm install
+```
+
+## Usage
+
+### Development
+
+```
+$ npm start
+```
+
+### Production
+
+```
+$ npm run build
 ```
