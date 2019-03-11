@@ -4,7 +4,7 @@ A ready to use React boilerplate with minimal webpack configuration.
 
 ## Features
 
-* React 18
+* React 16
 * Webpack 4
 * Babel 7
 
